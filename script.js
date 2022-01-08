@@ -19,7 +19,7 @@ let age = currentYear - birthYear;
 
 function answer(){
     key.innerText = `My name is ${firstName.value} ${lastName.value} and I'm ${age} years old.
-    I'm ${major.value} student. I study at ${uni.value} University. I'm interested in ${sub.value}.`;
-}
+    I'm ${major.value} student. I study at ${uni.value} University. I'm interested in ${sub.value}.`
+};
 
 
